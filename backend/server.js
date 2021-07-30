@@ -55,3 +55,5 @@ io.on("connection", (socket) => {
 });
 
 io.listen(3001);
+
+let name = "kooli bvooliqashdaskjdhkshkashasdasdaka";
